@@ -1,0 +1,19 @@
+{
+    "url": "Textos sueltos de Discord",
+    "translations": {
+        "es": {
+            "organization_text": "La tercera edición de CTWC Iberia, segunda celebrada en persona tras la de 2022, supuso un salto cualitativo gracias a la participación de Movistar como colaborador del evento, que nos permitió disponer de las instalaciones del céntrico edificio de Telefónica situado en plena Gran Vía de Madrid.",
+            "champion_text":"El campeón de esta edición fue Deewee de Finlandia. En la final le acompañó Luís, que volvió a repetir segundo puesto.",
+            "prize_text": "Premios",
+            "matcherino_one_text": "Aun por determinar. Se creará un Matcherino donde los espectadores y participantes podrán donar a un bote para premios.",
+            "matcherino_two_text": "El reparto se hará en función al bote total al final del torneo, recibiendo premios mínimo los 4 primeros puestos en la ronda eliminatoria.",
+        },
+        "pt": {
+            "organization_text": "A terceira edição do CTWC Iberia, a segunda realizada presencialmente após 2022, marcou um salto qualitativo graças à participação da Movistar como parceiro do evento, permitindo-nos utilizar as instalações do central edifício da Telefónica na Gran Vía de Madrid.",
+            "champion_text":"O campeão desta edição foi Deewee, da Finlândia. Acompanhado na final pelo Luís, que voltou a repetir o segundo lugar.",
+            "prize_text": "Prémios",
+            "matcherino_one_text": "Ainda por determinar. Será criado um Matcherino onde os espectadores e os participantes poderão fazer donativos para um pote de prémios.",
+            "matcherino_two_text": "A distribuição será baseada no pote total no final do torneio, com pelo menos os primeiros 4 lugares na ronda eliminatória a receberem prémios.",
+        }
+    }
+}

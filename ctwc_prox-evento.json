@@ -1,0 +1,41 @@
+{
+    "url": "https://www.classictetris.es/ctwc-iberia-2024/",
+    "translations": {
+        "es": {
+            "event_title": "Próximo evento en persona CTWC IBERIA 2024 en Ciudad Real",
+            "event_date": "5 de octubre",
+            "location": "(Calle Prado, Ciudad Real)",
+            "intro_text": "Tras el éxito del evento celebrado en Madrid en 2023, Classic Tetris Iberia vuelve a cambiar de ubicación, esperando repetir el éxito de las anteriores ediciones.",
+            "first_time_text": "Será la primera vez que un evento de Classic Tetris se celebre en Ciudad Real, concretamente junto con el resto de actividades que ofrece Manchacómic.",
+            "invitation_text": "Si te gusta el Tetris Clásico y quieres compartir tu pasión con gente como tú, apunta la fecha y ven a vivir esta experiencia con nosotros.",
+            "tournament_rules_button": "REGLAS DEL TORNEO >>",
+            "register_button": "INSCRÍBETE AQUÍ >>",
+            "matcherino_button": "CONTRIBUYE AL PREMIO A TRAVÉS DE MATCHERINO >>",
+            "partners_section": "COLABORADORES"
+        },
+        "en": {
+            "event_title": "Next in person event CTWC IBERIA 2024 in Ciudad Real",
+            "event_date": "October the 5th",
+            "location": "(Calle Prado, Ciudad Real)",
+            "intro_text": "After the success of the event held in Madrid in 2023, Classic Tetris Iberia will change its location again, hoping to repeat the success of previous editions.",
+            "first_time_text": "It will be the first time that a Classic Tetris event will be held in Ciudad Real, along with the rest of the activities offered by Manchacómic.",
+            "invitation_text": "If you like Classic Tetris and want to share your passion with people like you, save the date and come and live this experience with us.",
+            "tournament_rules_button": "TOURNAMENT RULES >>",
+            "register_button": "SIGN UP HERE >>",
+            "matcherino_button": "CONTRIBUTE TO THE PRIZE THROUGH MATCHERINO >>",
+            "partners_section": "PARTNERS"
+        },
+        "pt": {
+            "event_title": "Próximo evento presencial CTWC IBERIA 2024 em Ciudad Real",
+            "event_date": "5 de outubro",
+            "location": "(Calle Prado, Ciudad Real)",
+            "intro_text": "Após o sucesso do evento realizado em Madrid em 2023, o Classic Tetris Iberia muda novamente de local, na esperança de repetir o sucesso das edições anteriores.",
+            "first_time_text": "Será a primeira vez que um evento de Tetris Clássico se realize em Ciudad Real, juntamente com o resto das atividades oferecidas pelo Manchacómic.",
+            "invitation_text": "Se gostas de Tetris Clássico e queres partilhar a tua paixão com pessoas como tu, guarda a data e vem viver esta experiência connosco.",
+            "tournament_rules_button": "REGRAS DO TORNEIO >>",
+            "register_button": "INSCREVE-TE AQUI >>",
+            "matcherino_button": "CONTRIBUI PARA O PRÉMIO ATRAVÉS DO MATCHERINO >>",
+            "partners_section": "PARCEIROS"
+        }
+    }
+}
